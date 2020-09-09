@@ -1,0 +1,16 @@
+.course img{
+    height: 300px;
+    width: 260px;
+
+
+}
+.course{
+    display: inline-block;
+    width: 30%;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 5px;
+}
