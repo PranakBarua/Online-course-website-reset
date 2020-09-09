@@ -1,7 +1,6 @@
 import React from 'react';
 import './Course.css'
 const Course = (props) => {
-    //console.log(props.course.name);
     const { name, price, img } = props.course;
     return (
             <div className="course" >
